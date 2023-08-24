@@ -2,13 +2,6 @@
 
                               Machine Learning in Geoscience - Final assignment
 
-#                                                Name: Reza
-#                                          Matriculation Number: 6*85*
-#                               
-
-# In[ ]:
-
-
 # imports
 import matplotlib.pyplot as plt
 import numpy as np
@@ -20,7 +13,6 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # # Organizational
-# - Submission deadline: 25.August 2023, 23:59
 # - Submission format: jupyter notebook and pdf as .zip file (check pdf "Machine Learning 2023 end-of-term projects")
 # - Enter the matriculation number of one member of your team in the next code cell!
 # - Inform Nils Chudalla if you are disadvantaged by this assignment due to disability to see different colors
