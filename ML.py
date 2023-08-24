@@ -1,16 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# <p style="font-size:80%;"> Machine Learning in Geosciences </p>
-# 
-# <p style="font-size:60%;font-style:italic">CG3, LIH, RWTH Aachen University, Authors: Florian Wellmann, Anja Dufresne,  Nils Chudalla. For more information contact: <a href="mailto:chudalla@cgre.rwth-aachen.de">chudalla@cgre.rwth-aachen.de</a></p>
-# </div></div>
 
-# # Machine Learning in Geoscience - Final assignment
+                              Machine Learning in Geoscience - Final assignment
 
-#                               Name: Afrin Jahan Khan
-#                                Matriculation Number: 
-#                                RWTH Aachen University
+#                                                Name: Reza
+#                                          Matriculation Number: 6*85*
+#                               
 
 # In[ ]:
 
